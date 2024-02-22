@@ -1,2 +1,2 @@
-boss,cko27,Ko,Charlie
 role,NetID,LastName,FirstName
+boss,cko27,Ko,Charlie
